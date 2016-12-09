@@ -6,4 +6,4 @@ First you compile nokolisp.asm to nokolisp.exe. Then you do (in (open 'boot.lsp)
 
 TRS5-files add floating point arithmetics, via Turbo Pascal interrupt vector.
 
-Nokolisp Editor and other Tools: https://youtu.be/HB6HvhOw_MY
+http://timonoko.github.io/Nokolisp.htm
