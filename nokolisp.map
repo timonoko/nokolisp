@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name                   Class
+ 00000H 00059H 0005AH RAPASEG                
+ 00060H 0007FH 00020H EXESEG                 
+ 00080H 04EA1H 04E22H STACKSEG               STACK
+ 04EB0H 0826CH 033BDH DATASEG                DATA
+ 08270H 0C5C4H 04355H CODESEG                CODE
+
+Program entry point at 0827:4129
