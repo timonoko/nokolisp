@@ -1,0 +1,41 @@
+Regular arrow keys seem to work. And number keys in number pad.
+
+Might as well translate them all, as far I remember:
+
+"n" = new item 
+
+"y" = delete this
+
+"e" = new item after eval
+
+"l"= search
+
+"p"=pretty print
+
+"r"=remove parenthesis
+
+"a"=add parenthesis
+
+"w"=(list this next)
+
+"s" = substitute
+
+"b" = double this
+
+"v" = switch this next
+
+"z" = edit the value of a symbol
+
+"c" = nconc this next
+
+"f" = refresh
+
+"k" = full copy of this
+
+"q" = quote this
+
+ "-" = exit
+
+"h" = show numbers in hex
+
+    
